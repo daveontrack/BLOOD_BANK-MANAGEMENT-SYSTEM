@@ -56,7 +56,6 @@ Follow these simple steps to set up the Blood Bank Management System locally. Le
   git clone https://github.com/daveontrack/BLOOD_BANK_MANAGEMENT_SYSTEM
   ```
 - Move the project files to your server’s root (e.g., `htdocs` for XAMPP).  
-- Update configuration files (e.g., database credentials) as required.
 
 ### 6. Test It Out! ✅
 - Open your browser and visit `http://localhost/<project-folder>`.  
@@ -65,7 +64,7 @@ Follow these simple steps to set up the Blood Bank Management System locally. Le
 ---
 
 ## 💡 Need Help?
-Stuck? Check the official documentation linked above or drop a question in the [Issues](https://github.com/daveontrack/BLOOD_BANK_MANAGEMENT_SYSTEM/issues) section. We’ve got your back! 🙌
+Stuck? Check the official documentation linked above or drop a question in the [Issues](https://github.com/daveontrack/BLOOD_BANK_MANAGEMENT_SYSTEM/issues) section.
 
 Let’s build something amazing together! 🚀
 
