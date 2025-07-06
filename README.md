@@ -63,8 +63,5 @@ Follow these simple steps to set up the Blood Bank Management System locally. Le
 
 ---
 
-## 💡 Need Help?
-Stuck? Check the official documentation linked above or drop a question in the [Issues](https://github.com/daveontrack/BLOOD_BANK_MANAGEMENT_SYSTEM/issues) section.
-
 Let’s build something amazing together! 🚀
 
