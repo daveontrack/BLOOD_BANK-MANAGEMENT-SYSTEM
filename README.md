@@ -1,5 +1,5 @@
 
-# 🚀 Welcome to the Blood Bank Management System!
+# Welcome to the Blood Bank Management System!
 
 This project is a modern, scalable solution built to streamline blood bank operations with a sleek and user-friendly interface. Powered by a carefully curated tech stack, it ensures robust performance, reliability, and ease of development. Ready to dive in? Let’s explore the tech and get you set up! 🎉
 
@@ -63,5 +63,5 @@ Follow these simple steps to set up the Blood Bank Management System locally. Le
 
 ---
 
-Let’s build something amazing together! 🚀
+Let’s build something amazing together! 
 
